@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Hello, world!</title>
+    <style>
+        body{
+            margin:0;
+            padding:0;
+            box-sizing: border-box;
+            width:100%;
+            color:white;
+            height:auto;
+            overflow-x:hidden;
+        }
+
+        .row ul li {
+            list-style-type:none;
+            text-decoration: none;
+        }
+      
+        .one{
+          
+            border-bottom: 1px solid white;
+            
+        }
+        .container-fluid{
+            /*background-color: gray;*/
+            background-color: #1f4c70;
+            /*background-image: linear-gradient(to right, rgba(25,50,0,0.5), rgba(25,50,40,.5));*/
+            /*background-image: linear-gradient(to right, rgba(100,50,120,0.5), rgba(0,50,45,.5));*/
+        }
+        
+        .circle-icon {
+            background: #1172c1;
+            padding:10px;
+            border-radius: 50%;
+            font-size:2.5vw;
+        }
+}
+
+    </style>
+
+
+
+  </head>
+  <body>
+      <div class="container-fluid">
+          <div class="container one">
+              <div class="row p-4">
+                  <div class="col-md-4  col-sm-12 mt-4 mb-4">
+                      <div class='row  mx-auto'>  
+                          <div class="circle-icon mx-auto">
+                                <i class=" w-30 fa fa-phone p-3 text-white mx-auto" aria-hidden="true"></i> 
+                          </div>
+                      </div>
+                      <div class='row mt-3'><div class="col-md-12 text-center"> +1(786) 386-8833 </div> </div>
+                  </div>
+                  
+                  <div class="col-md-4  col-sm-12 mt-4 mb-4">
+                      <div class='row '>  <i style="background-color: #1172c1;font-size:3vw;border-radius:100%;" class="fa fa-envelope-open-o p-3 text-white mx-auto"  aria-hidden="true"></i> </div>
+                      <div class='row mt-3'><div class="col-md-12 text-center">support@mymanagementtutor.com</div></div>
+                      
+                  </div>
+                  
+                  <div class="col-md-4  col-sm-12 mt-4 mb-4" >
+                      <!--<div class='row'> <i style="background-color: #1172c1;font-size:3vw;border-radius:100%;" class="w-40 fa fa-map-marker p-3  text-white mx-auto" aria-hidden="true"></i>  </div>-->
+                     
+                        <div class='row'> 
+                            <div class="circle-icon mx-auto">
+                                <i  class="w-30 fa fa-map-marker p-3  text-white mx-auto" aria-hidden="true"></i> 
+                            </div>
+                        </div>
+
+                      <!--<div class='row '>  <i style="background-color: #f29108;font-size:2.5vw;border-radius:100%;" class="fa fa-phone p-3 text-white mx-auto" aria-hidden="true"></i> </div>-->
+                      <div class='row mt-3'><div class="col-md-12 text-center"> Canada</div></div>
+                  </div>
+              </div>
+          </div>
+          <div class="container two mt-4">
+              <div class="row mx-auto">
+                  <div class="col-md-4 col-sm-12">
+                      <div class='text-center'>
+                        <!--<ul class="text-center">-->
+                        <ul class='text-center'>
+                            <li class='mb-2'><u><a style="font-weight:bold;">Quick links</a></u></li> 
+                            <li ><a>About Us</a></li>
+                            <li ><a>Contact Us</a></li>
+                            <li><a>Privacy Policy</a></li>
+                            <li ><a>Terms and Conditions</a></li>
+
+                        </ul>
+                      </div>
+                  </div>
+                  <div class="col-md-4 col-sm-12 ">
+                      <ul class="text-center">
+                          <li class='mb-2'><u><a style="font-weight:bold;">Menu</a></u></li> 
+                          <li ><a>Home</a></li>
+                          <li ><a>Blog</a></li>
+                          <li ><a>Pricing</a></li>
+                          <li ><a>Our Services</a></li>
+
+                      </ul>
+                  </div>
+                  <div class="col-md-4  col-sm-12">
+                      <ul class="text-center">
+                          <li class='mb-2'><u><a style="font-weight:bold;">Student's trust Services</a></u></li> 
+                          <li ><a>Online Class Help</a></li>
+                          <li ><a>Management Help</a></li>
+                          <li ><a>Assignment/Homework Quiz</a></li>
+                          <li ><a>Quiz/Test Help</a></li>
+
+                      </ul>
+                  </div>
+              </div>
+          </div>
+            <div class="container three  " >
+                <div class="row " style='height:30vh;'>
+                    <div class="col-md-6  col-sm-12 my-auto" >
+                        <div class="row ">
+                            <div class='col-md-12 text-center'><span>We accept payment via</span></div>
+                        </div>
+                        <div class="row ">
+                            <div class='col-md-12 text-center'><img src="images/cards-icon.jpg" class="img img-responsove"></div>
+                        </div>
+                        <div class="row">
+                            <div class='col-md-12 text-center'>Dmca protected</div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-12 mx-auto my-auto text-center">
+                        <img src="images/google-partner.jpg"  class="w-25  img img-responsive">
+                    </div>
+
+                </div>
+
+            </div>
+          <div class="container four">
+              <div class="row" style="display:flex;justify-content:center;">
+                  <div>
+                      <i class="fab fa-facebook "></i>
+                  </div>
+                  <div>
+                      <i class="fab fa-pinterest-p ml-2"></i>
+                  </div>
+                  <div>
+                      <i class="fab fa-twitter ml-2"></i>
+                  </div>
+                  <div>
+                      <i class="fab fa-instagram ml-2"></i>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-12" style="text-align:center;">
+                      © MyManagementTutor Service All Rights Reserved
+                  </div>
+              </div>
+
+          </div>
+
+      </div>
+
+
+
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
